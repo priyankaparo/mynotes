@@ -1,0 +1,2 @@
+Time complexity of an algorithm calculates the amount of time taken by an algorithm to run as a function of the length of the input and Space complexity of an algorithm measures the amount of memory taken by an algorithm to run as a function of the length of the input.
+Both depends on many factors like hardware, operating system, processors but we cannot change these because these depends on our laptop processing so we measure them in terms of input length

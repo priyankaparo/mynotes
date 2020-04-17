@@ -1,0 +1,5 @@
+Git
+Flask 
+JavaScript
+Front Ends
+Django

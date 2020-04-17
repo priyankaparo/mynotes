@@ -1,0 +1,18 @@
+Git
+- git clone {link} -> to download from github account
+- git status
+- git branch -b {brnach anme }
+- git add {file name}
+- git add .
+- git commit -m "msg"
+- git commit -am "msg" (both add and commit together)
+- git push origin {brnach name}
+- git pull 
+- git log (to see whole changes ) --- press q to exit
+- git reset --hard <commit>
+- git reset --hard origin/master
+
+Flask 
+JavaScript
+Front Ends
+Django
